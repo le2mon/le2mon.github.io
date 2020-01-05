@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://le2mon.github.io</id>
     <title>l1ly4ever</title>
-    <updated>2020-01-05T07:43:10.932Z</updated>
+    <updated>2020-01-05T08:06:03.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://le2mon.github.io"/>
     <link rel="self" href="https://le2mon.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://le2mon.github.io/images/avatar.png</logo>
     <icon>https://le2mon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, l1ly4ever</rights>
-    <entry>
-        <title type="html"><![CDATA[开始]]></title>
-        <id>https://le2mon.github.io/post/kai-shi</id>
-        <link href="https://le2mon.github.io/post/kai-shi">
-        </link>
-        <updated>2020-01-05T07:42:21.000Z</updated>
-        <content type="html"><![CDATA[<p>这是我的第一篇博客， 不知道记录些什么，也不知道该写些什么，希望新的一年开心顺利！</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://le2mon.github.io/post/hello-gridea</id>
